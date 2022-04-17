@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myselfsreekanth
+- 👋 Hi, @myself Sreekanth
 - 👀 I’m interested in ... .Net, AI/ML technologies.
 - 🌱 I’m completed my AIML courses. Currently working on .Net, AWS technologies.
 - 💞️ I’m looking to collaborate on ... opensource, .net and python apps.
